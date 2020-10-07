@@ -1,7 +1,7 @@
 
 /**
  *  
- * 
+ * descripción de un estudiante
  * @author  
  * @version  
  */
